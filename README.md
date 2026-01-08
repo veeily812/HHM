@@ -1,6 +1,6 @@
 ## 📊 Báo cáo Khuyến mại & Chiết khấu  
 **Giai đoạn: 01/01/2026 – 07/01/2026**
-
+Link BI: https://app.powerbi.com/links/gNM1_LMfYF?ctid=045dfd9b-56b0-4ec6-bcfd-fd2948d7e7a5&pbi_source=linkShare&bookmarkGuid=93f530af-efca-4d6d-9327-afec0247be6a
 ---
 
 ## 1. Mục tiêu báo cáo
