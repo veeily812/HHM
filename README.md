@@ -43,10 +43,11 @@ Hệ thống khuyến mại đa dạng nhưng thời lượng chương trình d�
 <img width="342" height="207" alt="image" src="https://github.com/user-attachments/assets/4d4ab18b-3620-4639-b805-5dc5e58cb0d2" />
 
 
-### Hiệu suất chiết khấu
-- **Hiệu suất cao**: LINHKIENK, Loa, Smarthome  
-- **Hiệu suất thấp**: PHUKIEN, Điện lạnh, NMANG001  
-<img width="300" height="446" alt="image" src="https://github.com/user-attachments/assets/5462699c-b0ca-42d4-82b3-a059bf51f9bf" />
+### Hiệu suất chiết khấu ( Tỷ trọng lớn => hiệu suất ca0)
+
+- **Hiệu suất thấp**: LINHKIENK, Loa, Smarthome  
+- **Hiệu suất cao**: PHUKIEN, Điện lạnh, NMANG001  
+<img width="376" height="442" alt="image" src="https://github.com/user-attachments/assets/1bd47f3f-5f89-413d-b1f0-18a70c713e2b" />
 
 📌 **Kết luận**:  
 Ngân sách chiết khấu đang tập trung nhiều vào các nhóm **hiệu suất thấp**, trong khi một số nhóm quy mô nhỏ hơn lại tạo ra doanh thu tốt hơn trên mỗi đồng chiết khấu.
@@ -55,12 +56,12 @@ Ngân sách chiết khấu đang tập trung nhiều vào các nhóm **hiệu su
 
 ## 4. Hiệu quả theo Loại chiết khấu
 
-- **Loại 08**:
+- **Loại 09**:
   - Số đơn áp dụng nhiều
-  - Hiệu suất thấp
-  - Chủ yếu là chiết khấu dịch vụ HCARE
+  - Hiệu suất cao
+  - CK theo Hạng
 - **Loại 10**:
-  - Hiệu suất cao nhất
+  - Hiệu suất thấp nhất
   - Ít đơn nhưng tạo doanh thu tốt
   - Chủ yếu là voucher website
 
