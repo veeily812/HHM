@@ -1,184 +1,133 @@
-# 📊 Báo cáo Khuyến mại & Chiết khấu  
-**Ảnh hưởng đến Doanh thu**  
-📅 *Giai đoạn: 01/01/2026 – 07/01/2026*
+# 📌 README
+
+## 📊 Báo cáo Khuyến mại & Chiết khấu  
+**Giai đoạn: 01/01/2026 – 07/01/2026**
 
 ---
 
-## I. Tổng quan Khuyến mại
+## 1. Mục tiêu báo cáo
 
-- Tổng số **loại chiết khấu**: **116**
-- **Doanh thu từ đơn có khuyến mại**: **80 tỷ**
-- **Số lượng đơn**: **4,280**
-- **Thời lượng trung bình mỗi chương trình**: **> 3 tháng**
-- **Chiết khấu loại 08** chiếm **tỷ trọng cao nhất** về số đơn và giá trị
+Báo cáo này nhằm:
+- Đánh giá **mức độ ảnh hưởng của khuyến mại & chiết khấu đến doanh thu**
+- Đo lường **hiệu quả sử dụng ngân sách chiết khấu**
+- Xác định **nhóm sản phẩm, cửa hàng, khu vực** sử dụng chiết khấu hiệu quả
+- Đưa ra **gợi ý điều chỉnh chiến lược khuyến mại**
 
 > **Định nghĩa hiệu suất chiết khấu**  
-> *Hiệu suất = 1 đồng chiết khấu tạo ra bao nhiêu đồng doanh thu*
+> *1 đồng chiết khấu tạo ra bao nhiêu đồng doanh thu*
 
 ---
 
-## II. Phân tích theo Chủng loại Sản phẩm
+## 2. Tổng quan Khuyến mại
 
-### 1. Tỷ trọng chiết khấu
-- **Điện thoại**: ~ **31.57%**
-- **Phụ kiện (PHUKIEN)**: ~ **25.9%**
-- **HCARE**: ~ **22%**
+- **Tổng số loại chiết khấu**: 116  
+- **Doanh thu từ đơn có khuyến mại**: 80 tỷ  
+- **Số lượng đơn**: 4,280  
+- **Thời lượng trung bình mỗi chương trình**: > 3 tháng  
+- **Chiết khấu loại 08** chiếm tỷ trọng cao nhất về số đơn và giá trị
 
-👉 Ba nhóm này chiếm phần lớn ngân sách chiết khấu của công ty.
-
----
-
-### 2. Hiệu suất chiết khấu theo chủng loại
-
-#### 🔼 Hiệu suất cao
-- **LINHKIENK** (cao nhất)
-- **Loa**
-- **Smarthome**
-
-#### 🔽 Hiệu suất thấp
-- **PHUKIEN**
-- **Điện lạnh**
-- **NMANG001**
-
-📌 **Insight quan trọng**:
-- Điện thoại và phụ kiện tiêu tốn nhiều chiết khấu **nhưng không phải nhóm hiệu quả nhất**
-- Một số nhóm doanh thu nhỏ hơn lại mang về **hiệu suất vượt trội**
+📌 **Nhận định nhanh**:  
+Hệ thống khuyến mại đa dạng nhưng thời lượng chương trình dài, cần đánh giá lại mức độ hiệu quả theo từng loại chiết khấu.
 
 ---
 
-### 3. Phân tích theo loại chiết khấu
+## 3. Hiệu quả theo Nhóm sản phẩm
 
-- **Loại chiết khấu 08**:
+### Tỷ trọng chiết khấu
+- Điện thoại: ~31.57%  
+- Phụ kiện: ~25.9%  
+- HCARE: ~22%
+
+### Hiệu suất chiết khấu
+- **Hiệu suất cao**: LINHKIENK, Loa, Smarthome  
+- **Hiệu suất thấp**: PHUKIEN, Điện lạnh, NMANG001  
+
+📌 **Kết luận**:  
+Ngân sách chiết khấu đang tập trung nhiều vào các nhóm **hiệu suất thấp**, trong khi một số nhóm quy mô nhỏ hơn lại tạo ra doanh thu tốt hơn trên mỗi đồng chiết khấu.
+
+---
+
+## 4. Hiệu quả theo Loại chiết khấu
+
+- **Loại 08**:
   - Số đơn áp dụng nhiều
-  - Tuy nhiên **hiệu suất không cao**
-- **Loại chiết khấu 01**:
+  - Hiệu suất thấp
+- **Loại 01**:
   - Hiệu suất cao nhất
-  - Ít đơn hơn nhưng tạo ra doanh thu tốt hơn trên mỗi đồng chiết khấu
+  - Ít đơn nhưng tạo doanh thu tốt
 
-👉 Gợi ý: **tái phân bổ ngân sách** từ loại 08 sang loại 01.
-
----
-
-## III. Phân tích theo Cửa hàng
-
-### 1. Số đơn chiết khấu
-
-#### 🔼 Cao
-- HN002  
-- HN006  
-- HN001  
-- HN009  
-- HN005  
-
-#### 🔽 Thấp
-- GLA001  
-- SG017  
-- QN002  
-- DLA001  
-- QN003  
+📌 **Gợi ý**:  
+Cần xem xét **giảm phụ thuộc vào loại 08**, tái phân bổ sang các loại chiết khấu có hiệu suất cao hơn.
 
 ---
 
-### 2. Hiệu suất chiết khấu theo cửa hàng
+## 5. Hiệu quả theo Cửa hàng
 
-#### 🏆 Hiệu suất cao nhất
-- SG007  
-- HN007  
-- TBI001  
-- MDN001  
-- MHU001  
+### Số đơn chiết khấu cao
+- HN002, HN006, HN001, HN009, HN005
 
-📌 **Insight**:
-- Không phải cửa hàng nhiều đơn chiết khấu là cửa hàng hiệu quả
-- Một số cửa hàng quy mô nhỏ nhưng **sử dụng ngân sách rất tốt**
+### Hiệu suất chiết khấu cao
+- SG007, HN007, TBI001, MDN001, MHU001
 
----
-
-## IV. Phân tích theo Khu vực
-
-### 1. Số đơn chiết khấu
-
-#### 🔼 Cao
-- HN2  
-- HN1  
-- HN3  
-- MB1  
-- MB2  
-
-#### 🔽 Thấp
-- HCM2  
-- MN1  
-- MTR2  
-- MN3  
-- ONLINE  
+📌 **Kết luận**:  
+Cửa hàng có nhiều đơn chiết khấu **không đồng nghĩa** với hiệu quả cao.  
+Một số cửa hàng quy mô nhỏ đang sử dụng ngân sách chiết khấu tốt hơn.
 
 ---
 
-### 2. Hiệu suất chiết khấu theo khu vực
+## 6. Hiệu quả theo Khu vực
 
-#### 🏆 Hiệu suất cao
-- **ONLINE**
-- **MTR2**
-- **MTR3**
-- **MB1**
-- **MN2**
+### Số đơn chiết khấu cao
+- HN2, HN1, HN3, MB1, MB2
 
-📌 **Insight đáng chú ý**:
-- Kênh ONLINE có số đơn chiết khấu thấp nhưng **hiệu suất cao**
-- Cho thấy tiềm năng mở rộng khuyến mại có kiểm soát trên kênh số
+### Hiệu suất chiết khấu cao
+- ONLINE, MTR2, MTR3, MB1, MN2
+
+📌 **Kết luận**:  
+Kênh ONLINE và một số khu vực có số đơn thấp nhưng **hiệu quả chiết khấu cao**, cho thấy tiềm năng mở rộng có kiểm soát.
 
 ---
 
-## V. Tổng hợp Hiệu suất Chung
+## 7. Hiệu suất chung & Khách hàng
 
 - **Tỷ lệ chiết khấu / doanh thu**: **1.17%**
-- Tức là:
-  > *Công ty bỏ ra 1.17 đồng chiết khấu để tạo ra 100 đồng doanh thu*
+- Tức là: *Công ty bỏ ra 1.17 đồng chiết khấu để tạo ra 100 đồng doanh thu*
+- **Số lượng khách hàng có xu hướng giảm**
 
-⚠️ **Lưu ý**:
-- Trong giai đoạn này, **số lượng khách có xu hướng giảm**
-- Khuyến mại hiện tại **chưa bù đắp được sự sụt giảm về khách hàng**
-
----
-
-## VI. Phân tích Voucher
-
-### 1. Tổng quan
-- **Số chương trình voucher**: **44**
-- **Số khách sử dụng voucher**: **7,612**
-- **Tổng số khách**: **368,471**
-- **Tổng tiền voucher đã sử dụng**: **1 tỷ**
-
-➡️ **Tỷ lệ khách dùng voucher còn thấp**
+📌 **Lưu ý**:  
+Khuyến mại hiện tại chưa đủ để bù đắp sự sụt giảm về tệp khách hàng.
 
 ---
 
-### 2. Voucher theo chủng loại
-- **Điện thoại**: **35%**
-- **HCARE**: **25%**
-- **Phụ kiện**: **18%**
+## 8. Voucher – Nhận định nhanh
+
+- **Số chương trình voucher**: 44  
+- **Khách sử dụng voucher**: 7,612 / 368,471 khách  
+- **Tổng tiền voucher đã sử dụng**: 1 tỷ  
+
+### Theo nhóm sản phẩm
+- Điện thoại: 35%  
+- HCARE: 25%  
+- Phụ kiện: 18%  
+
+### Theo đối tượng
+- **Khách hàng mới**: 52%
+
+📌 **Nhận định**:  
+Voucher hiện chủ yếu phục vụ **thu hút khách mới**, cần đánh giá thêm khả năng **giữ chân và mua lại**.
 
 ---
 
-### 3. Đối tượng sử dụng voucher
-- **Thành viên mới**: **52%**
+## 9. Kết luận & Đề xuất
 
-📌 **Insight**:
-- Voucher đang được dùng chủ yếu để **thu hút khách mới**
-- Cần đánh giá thêm khả năng **giữ chân và mua lại** sau khi sử dụng voucher
-
----
-
-## VII. Kết luận & Gợi ý hành động
-
-- Nên **giảm phụ thuộc vào các loại chiết khấu hiệu suất thấp** (đặc biệt loại 08)
-- Tăng đầu tư cho:
+- Rà soát và giảm các loại chiết khấu **hiệu suất thấp** (đặc biệt loại 08)
+- Tái phân bổ ngân sách sang:
   - Nhóm sản phẩm hiệu suất cao
-  - Cửa hàng & khu vực dùng ngân sách hiệu quả
-- Đánh giá lại chiến lược voucher:
-  - Không chỉ tập trung thu hút khách mới
-  - Cần đo lường **tỷ lệ quay lại**
+  - Cửa hàng và khu vực sử dụng chiết khấu hiệu quả
+- Điều chỉnh chiến lược voucher:
+  - Không chỉ thu hút khách mới
+  - Bổ sung KPI đo lường **tỷ lệ quay lại**
 
 ---
 
-📌 *Báo cáo tập trung vào hiệu quả sử dụng ngân sách khuyến mại thay vì chỉ quy mô chi tiêu.*
+📎 *Báo cáo tập trung vào hiệu quả sử dụng ngân sách khuyến mại để hỗ trợ quyết định quản trị.*
